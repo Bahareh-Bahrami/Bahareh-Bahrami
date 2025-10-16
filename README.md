@@ -15,7 +15,7 @@ I’m a **front-end developer** with a solid foundation in **HTML**, **CSS**, an
 I’m currently working with **React.js** and learning **Next.js** to build dynamic and user-friendly web applications.  
 
 💡 I enjoy problem-solving, clean UI design, and continuous learning.  
-🎯 Looking for **entry-level opportunities** to grow and collaborate on real-world projects.
+🎯 Looking for **entry-level opportunities** to grow and collaborate on real-world projects.  
 🥗 When I’m not coding, I enjoy cooking and testing new recipes, traveling, and exploring art and design.
 
 ---
