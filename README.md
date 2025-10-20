@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Bahareh 👩🏻‍💻
+## 👋 Hey, I'm Bahareh 👩🏻‍💻
 
 <div align="center">
   <img
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 I’m a **front-end developer** with a solid foundation in **HTML**, **CSS**, and **modern JavaScript (ES6+)**.  
 I’m currently working with **React.js** and learning **Next.js** to build dynamic and user-friendly web applications.  
 
@@ -20,7 +20,7 @@ I’m currently working with **React.js** and learning **Next.js** to build dyna
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
@@ -36,7 +36,7 @@ I’m currently working with **React.js** and learning **Next.js** to build dyna
 
 ---
 
-## 💼 Featured Projects
+### 💼 Featured Projects
 
 - **🧠 [Portfolio Website](https://aeteghad.github.io/)** – A clean, multi-page portfolio built for a client with semantic HTML, CSS & JS.
 - **🌴 [Travel Checklist App](https://bahareh-bahrami.github.io/Travel-List/)** – A React app to organize and track packing lists for trips.  
