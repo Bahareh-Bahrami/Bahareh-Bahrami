@@ -38,7 +38,7 @@ I’m currently working with **React.js** and learning **Next.js** to build dyna
 
 ### 💼 Featured Projects
 
-- **🧠 [Portfolio Website](https://aeteghad.github.io/)** – A clean, multi-page portfolio built for a client with semantic HTML, CSS & JS.
+- **🧠 [Mr. Eteghad's Portfolio](https://aeteghad.github.io/)** – A clean, multi-page portfolio built for a client with semantic HTML, CSS & JS.
 - **🌴 [Travel Checklist App](https://bahareh-bahrami.github.io/Travel-List/)** – A React app to organize and track packing lists for trips.  
 - **💰 [Split Bill App](https://bahareh-bahrami.github.io/Eat-N-Split/)** – Manage shared expenses easily with React state management.  
 - **🍴 [Omnifood Landing Page](https://bahareh-bahrami.github.io/Omnifood/)** – A fully responsive fictional AI-powered food service landing page.  
