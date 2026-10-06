@@ -11,7 +11,7 @@
 ---
 
 ### 🚀 About Me
-I have a **MSc in Clinical Psychology** and I am building a research-focused
+I have an **MSc in Clinical Psychology** and I am building a research-focused
 portfolio at the intersection of **cognitive neuroscience**, **behavioural science**,
 **digital health** and **human-centred technology**.
 
